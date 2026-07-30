@@ -1,5 +1,5 @@
-# aircraft-models
-Open source 3D aircraft models in glTF/GLB format, including commercial airliners, an eVTOL, and a drone. Each model ships with a plain, logo-free variant.
+# amvlab 3d Aircraft Models
+Open source 3D aircraft models in `.GLB` format optimised for air traffic simulators, including airliners, an eVTOL, and a drone. Each model ships with a plain, logo-free variant.
 
 ## Gallery
 
