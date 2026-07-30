@@ -15,9 +15,6 @@ Open source 3D aircraft models in `.GLB` format optimised for air traffic simula
 ![A380 hero over the Alps](images/a380-hero-alps.png)
 ![A380 hero over the coast](images/a380-hero-coast.png)
 
-### Mixed fleet
-![Mixed fleet](images/mixed-fleet-hero-light.png)
-
 ## License
 
 The models and images in this repository are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
